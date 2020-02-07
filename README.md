@@ -34,7 +34,7 @@ ghcid
 
 ## Demo
 
-[Asciinema recording](https://asciinema.org/a/mqEqyvyXfGKKjjj5wECdNoShN)
+[Asciinema recording](https://asciinema.org/a/Zonjs546k8cD6et4Hz2EUx6nZ)
 
 ## Dependencies
 
